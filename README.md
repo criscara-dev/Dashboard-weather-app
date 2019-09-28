@@ -14,8 +14,7 @@ To run the local site from your own computer, please download it and run the htm
 
 ## Credits
 
-Design source: Outcrowd https://dribbble.com/outcrowd
-
+Design source: [Outcrowd](https://dribbble.com/outcrowd)
 
 ## License
 
