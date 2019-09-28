@@ -6,7 +6,7 @@ This is a code version in HTML and CSS of the Dashboard created by [Outcrowd](ht
 
 ## Live Demo
 
-You can see the website live at: [https://vigorous-archimedes-36c1a4.netlify.com/](https://vigorous-archimedes-36c1a4.netlify.com/)
+You can see the website live at: [codepen.io](https://codepen.io/criscarart/pen/vYBvrEv)
 
 ## Credits
 
