@@ -8,14 +8,6 @@ This is a code version in HTML and CSS of the Dashboard created by [Outcrowd](ht
 
 You can see the website live at: [https://vigorous-archimedes-36c1a4.netlify.com/](https://vigorous-archimedes-36c1a4.netlify.com/)
 
-### Clone or download this repository
-
-To run the local site from your own computer, please download it and run the html file:.....
-
 ## Credits
 
 Design source: [Outcrowd](https://dribbble.com/outcrowd)
-
-## License
-
-#### [MIT](./LICENSE)
