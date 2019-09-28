@@ -2,7 +2,7 @@
 
 [![imagely](/assets/final-weather-app-preview.png)](https://criscarart.github.io/imagely/)
 
-This is a code version in HTML and CSS of the Dashboard created by @Outcrowd and shown on Dribble (https://dribbble.com/shots/7177589-Dashboard-Weather-App).
+This is a code version in HTML and CSS of the Dashboard created by [Outcrowd](https://dribbble.com/outcrowd) and shown on Dribble (https://dribbble.com/shots/7177589-Dashboard-Weather-App).
 
 ## Live Demo
 
